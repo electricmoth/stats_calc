@@ -1,6 +1,11 @@
 #!/usr/bin/python3
 
 # calculate standard error for a sample proportion
+# example:
+# A survey was conducted at local colleges around Madison, Wisconsin to find out the average height of a college student. Of 692 students surveyed, 421 replied that they were over 6 feet tall.
+# What is the standard error?
+# answer: 0.02
+
 
 import math
 
